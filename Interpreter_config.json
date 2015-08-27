@@ -13,7 +13,7 @@
 	       "proxy": {
               "proxyType": "manual",
               "httpProxy": "proxy.ebiz.verizon.com:80"
-               }
+               },
 	      "username": "${jackchem2003}",
 	      "accessKey": "${3d4fa22d-12ad-4f18-9168-37ea7d88b522}"
 	   }
