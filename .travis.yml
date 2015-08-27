@@ -6,7 +6,7 @@ before_script:
   - "npm install -g se-interpreter"
 script:
   - "se-interpreter interpreter_config.json"
-  - "se-interpreter Hackathon_Simple/Selenium/test2.json"
+
 env:
   global:
     - secure: dTl/lRxzv/0vpQ7XfOZ2EczZ3x329pUsu1MZYnNpWsR0UbxXhv5P8ee1J+lw8jCUNN2JeHkgYYbMDcg8gXUtxeme3WT/PXCcnusqVHcc7pwN3Tv0nuUNZdSPdZSmD4DlEZ8qpgZQQJajp4M/J+63UgfRELGhagYzE6bTVppJNvhDo3BhHKi4CYkc4CerrY2gfNwYdpNIsoaF+WXAZy9Kz/FxEruZAFR34k8LMjR8AO9/Ytuxt60wvgE7LY8s9XIs6YBcgc6pevj9mhn9/q+ns9zbT7VNTybR8AMqik6Ob1/P8DrK/Ldj6K7zL7W78cVoTsVakwRS+ESkbEjX0bMQaz05LMTnJV+/7D+Tiivz1hk0vNVqOd9m0maN9PZOcEToonJYA4Di0I6XvLmejlRYWKTdQpuz+rKuG+Xw8H3pkeJC3XOXiZfTIcg0fML07myLE3Jw5/E0a0wp3OooelN4Yinor80u66QAWt6h3DozrPLrH2qPG9avVdah2blZcsnIs9YmZqwduhqecND9zncukak/eU/i0qDkIh30J8cTiYA2h/jlQZulkLobk92eJYdlislF9ymB44ppooBk24SDkT8yhgbj0Re5RAqqpIJYGMBs7+d44o2dIq06l+VkeAI7a6c/7/cSn+GEsssAMI0EPO4w2/ye5RsyvNN8YKP22Wk=
