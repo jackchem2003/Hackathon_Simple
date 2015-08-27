@@ -16,6 +16,6 @@
 	}
       ],
       "scripts": [
-	"Selenium/*.json"
+	"Hackathon_Simple/Selenium/test2.json"
       ]
 }
