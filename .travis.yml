@@ -3,7 +3,7 @@ language: node_js
 node_js:
 - 0.10
 before_script:
-  - "npm isntall -g se-interpreter"
+  - "npm install -g se-interpreter"
 script:
   - "se-interpreter interpreter_config.json"
 env:
