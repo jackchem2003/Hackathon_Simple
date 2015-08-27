@@ -7,7 +7,7 @@
 	  "driverOptions": {
 	      "host": "localhost",
 	      "port": 80
-	   },
+	       },
 	  "browserOptions": {
 	      "browserName": "firefox",
 	       "proxy": {
