@@ -5,7 +5,7 @@
       "settings": [
 	{
 	  "driverOptions": {
-	      "host": "localhost",
+	      "host": "ondemand.saucelabs.com",
 	      "port": 80
 	       },
 	  "browserOptions": {
