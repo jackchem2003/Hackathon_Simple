@@ -3,20 +3,22 @@
   "configurations": [
     {
       "settings": [
-	{  
-	    "driverOptions": {
+        {
+          "driverOptions": {
             "host": "ondemand.saucelabs.com",
             "port": 80
           },
-	   "browserOptions": {
-	      "browserName": "firefox",
-	      "username": "${jackchem2003}",
-	      "accessKey": "${3d4fa22d-12ad-4f18-9168-37ea7d88b522}"
-	   }
-	}
+          "browserOptions": {
+            "browserName": "firefox",
+            "username": "${jackchem2003}",
+            "accessKey": "${3d4fa22d-12ad-4f18-9168-37ea7d88b522}"
+          }
+        }
       ],
       "scripts": [
-	"Selenium/*"
+        "Selenium/*"
       ]
+    }
+  ]
 }
 
