@@ -1,3 +1,15 @@
   {
-  "type": "interpreter-config"
+  "type": "interpreter-config",
+    "configurations": [
+    {
+      "settings": [
+        {
+          "driverOptions": {
+            "host": "ondemand.saucelabs.com",
+            "port": 80
+          }
+        }
+        ]
+    }
+  ]
 }
