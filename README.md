@@ -1,3 +1,0 @@
-# Hackathon_Simple
-
-TESTING
