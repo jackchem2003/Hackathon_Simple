@@ -4,7 +4,7 @@ node_js:
 before_script:
   - "npm install -g se-interpreter"
 script:
-  - "se-interpreter Interpreter_config.json"
+  - "se-interpreter interpreter_config.json"
 
 env:
   global:
