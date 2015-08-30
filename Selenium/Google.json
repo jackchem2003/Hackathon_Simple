@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "seleniumVersion": "2",
+  "formatVersion": 2,
+  "steps": [
+    {
+      "type": "get",
+      "url": "https://www.google.co.in/?gws_rd=ssl"
+    },
+    {
+      "type": "setElementText",
+      "locator": {
+        "type": "id",
+        "value": "lst-ib"
+      },
+      "text": "selenium"
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "name",
+        "value": "btnG"
+      }
+    }
+  ],
+  "data": {
+    "configs": {},
+    "source": "none"
+  },
+  "inputs": [],
+  "timeoutSeconds": 60
+}
