@@ -16,6 +16,6 @@
 	}
       ],
       "scripts": [
-	"Selenium/*.json"
+	"Selenium/*"
       ]
 }
