@@ -1,6 +1,6 @@
-{
   "type": "interpreter-config",
   "configurations": [
+    {
       "settings": [
         {
           "driverOptions": {
@@ -14,5 +14,5 @@
           }
         }
       ]
+    }
   ]
-}
