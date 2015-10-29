@@ -103,7 +103,7 @@
     },
     {
       "type": "assertTextPresent",
-      "text": "Test an Application"
+      "text": "Test an Application2"
     },
     {
       "type": "clickElement",
